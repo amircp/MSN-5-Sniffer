@@ -5,3 +5,5 @@ MSN Messenger 5 Sniffer
 is a good sniffer example. Coded in C.
 
 * I just have to say: Enjoy it!
+
+* Compile under VC++:  cl msnsniff.cpp ws2_32.lib
